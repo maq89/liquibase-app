@@ -12,3 +12,4 @@ const myConfig = {
 const instTs = new Liquibase(myConfig);
 
 instTs.status();
+
